@@ -1,0 +1,52 @@
+body{
+    background-color: #E5E5E5;
+}
+.brand-logo{
+    width: 40px;
+}
+main{
+    max-width: 890px;
+  
+}
+.top-player{
+
+    border-radius: 5px;
+}
+ h3{
+    color: #562EFF;
+
+}
+.player  img{
+ width: 56px;
+}
+.line{
+    border: 1px solid #D1D1D1;
+}
+.blog img{
+width: 177px;
+}
+.blog-text{
+    margin-left: 90px;
+    text-align: center;
+    }
+.last-part{
+    max-width: 890px;
+}
+.card{
+        border: none;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px lightgray;
+}
+.star{
+color: orange;
+}
+.icon-wraper h6{
+    color: #A2A2A2;
+}
+.time{
+    background-color: #fee5df;
+    color: #FF4A60 !important;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+}
